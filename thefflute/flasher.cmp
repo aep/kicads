@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by PcbNew date = Wed 01 Oct 2014 12:04:37 PM CEST
+
+BeginCmp
+TimeStamp = /5429C1D4;
+Reference = C1;
+ValeurCmp = 33uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5429C1E3;
+Reference = C2;
+ValeurCmp = 0.33uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5429BA7B;
+Reference = P1;
+ValeurCmp = CONN_5X2;
+IdModule  = SIDE_MOUNTED_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5429BA9D;
+Reference = P2;
+ValeurCmp = CONN_5X2;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5429C117;
+Reference = U1;
+ValeurCmp = UA78M33C;
+IdModule  = TO220_gnd_in_the_middle;
+EndCmp
+
+EndListe

@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 24 Aug 2014 07:46:38 PM CEST
+#
+$CMP Antenna
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP CONN_15
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
+#End Doc Library
